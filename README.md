@@ -1,4 +1,4 @@
-# viking-back-spring-mySQL
+# viking-back-spring-mySQLite
 Back-end da aplicação para gestão de playlists
 Desenvolvida em Java Spring Boot
-versão para mySQL
+versão para BD mySQL e SQLite
